@@ -1,2 +1,2 @@
-web: /app api
-worker: /app worker
+web: api
+worker: worker
